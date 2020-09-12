@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpringAnimationApp</string>
+    <string name="simple_bounce_view">Simple Bounce View</string>
+    <string name="bounded_bounce_view">Bounded Bounce View</string>
+</resources>
